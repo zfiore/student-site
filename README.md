@@ -19,4 +19,4 @@ Revise file(s), commit changes, and push to the "master" branch.
 
 ## Hosting
 
-To host the site or update the hosted site, push changes to the "gh-pages" branch.
+In order to host the site or update the hosted site, push changes to the "gh-pages" branch.
